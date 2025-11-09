@@ -1,4 +1,11 @@
 /**
+ * Student Name : Zhiming Wei
+ * ID:24832847
+ * Video link: https://scuonline-my.sharepoint.com/:v:/g/personal/z_wei_16_student_scu_edu_au/EWTd5hmS_NtEsUynWQafPq0ByWyyXw65WJbOjg-_ZeHgUw
+ * Github link:https://github.com/Ehoc-Walden/Zhiming-Wei-A1
+ */
+
+/**
  * Cardiologist subclass
  * Extends HealthProfessional and adds cardiologist-specific attributes
  * Shows differentiation in the inheritance hierarchy for different specialties
