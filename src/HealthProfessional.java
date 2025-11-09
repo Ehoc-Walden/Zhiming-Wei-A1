@@ -1,4 +1,11 @@
 /**
+ * Student Name : Zhiming Wei
+ * ID:24832847
+ * Video link: https://scuonline-my.sharepoint.com/:v:/g/personal/z_wei_16_student_scu_edu_au/EWTd5hmS_NtEsUynWQafPq0ByWyyXw65WJbOjg-_ZeHgUw
+ * Github link:https://github.com/Ehoc-Walden/Zhiming-Wei-A1
+ */
+
+/**
  * Base class for all health professionals
  * Represents common attributes and behaviors of all healthcare workers
  * Demonstrates encapsulation principles with private fields and public methods
