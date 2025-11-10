@@ -1,8 +1,9 @@
 /**
  * Student Name : Zhiming Wei
  * ID:24832847
- * Video link: https://scuonline-my.sharepoint.com/:v:/g/personal/z_wei_16_student_scu_edu_au/EWTd5hmS_NtEsUynWQafPq0ByWyyXw65WJbOjg-_ZeHgUw
- * Github link:https://github.com/Ehoc-Walden/Zhiming-Wei-A1
+ * Video link:  1.OneDrive： https://scuonline-my.sharepoint.com/:v:/g/personal/z_wei_16_student_scu_edu_au/EWTd5hmS_NtEsUynWQafPq0ByWyyXw65WJbOjg-_ZeHgUw
+ *              2.Tencent Meeting： https://meeting.tencent.com/cw/Km6a8D3J52
+ * Github link: https://github.com/Ehoc-Walden/Zhiming-Wei-A1
  */
 
 /**
